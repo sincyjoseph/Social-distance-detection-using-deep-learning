@@ -24,8 +24,3 @@
 # For GPU:
 You can find my google colab file here. [Social distance detector colab](https://colab.research.google.com/drive/13IzdPCsAo4L613cmBEmrtM-NgSvMukb-?usp=sharing)
 
-## Contacts:
-* **Created by:[Abdullah Shoumik](https://github.com/abd-shoumik)**
-* **Email:[abd.shoumik@gmail.com](https://abd.shoumik@gmail.com)**
-* **Youtube:[TheLazyCoder](https://youtube.com/channel/UCWjx_FKjjfjAL-wtSi-iS4g)**
-* **LinkedIn: [Abdullah Shoumik](https://www.linkedin.com/in/abdullah-shoumik-7a0b36135/)**
